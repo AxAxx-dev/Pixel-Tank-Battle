@@ -1,4 +1,4 @@
-## Initial Release (v3.3.8)
+## Initial Release (Beta3.3.8)
 
 Pixel Tank Battle is a pixel-art tank battle game built with Electron, available for Windows and Android.
 
@@ -12,7 +12,7 @@ Please visit the [Releases page](https://github.com/AxAxx-dev/Pixel-Tank-Battle/
 
 ---
 
-## 首个版本发布 (v3.3.8)
+## 首个版本发布 (Beta3.3.8)
 
 一款基于 Electron 开发的像素坦克对战游戏，支持 Windows 与 Android 平台。
 
