@@ -14,9 +14,9 @@ Pixel Tank Battle is a pixel-art tank battle game built with Electron, available
 
 | 文件类型 | 平台 | 描述 |
 | --- | --- | --- |
-| `Pixel_Tank_Battle_Setup_<version>.exe` | Windows | 安装程序，运行设置向导 |
-| `PixelTankBattle_<version>_Windows.zip` | Windows | 便携版，解压后运行 |
-| `PixelTankBattle_<version>_Android.zip` | Android | Android 包 
+| `Pixel_Tank_Battle_Setup_3.3.8.EXE` | Windows | 安装程序，运行设置向导 |
+| `PixelTankBattle_3.3.8-Windows.zip` | Windows | 便携版，解压后运行 |
+| `PixelTankBattle_3.3.0-Android.zip` | Android | Android 包 
 
 > `<version>` 根据版本而异。请参阅发布页面上的实际文件名。旧版本也可在那里找到。
 
@@ -53,9 +53,9 @@ Pixel Tank Battle 是一款像素风格的坦克对战游戏，使用 Electron �
 
 | 文件类型 | 平台 | 说明 |
 | --- | --- | --- |
-| `Pixel_Tank_Battle_Setup_<版本号>.exe` | Windows | 安装版，运行安装向导完成安装 |
-| `PixelTankBattle_<版本号>_Windows.zip` | Windows | 免安装版，解压后直接运行 |
-| `PixelTankBattle_<版本号>_Android.zip` | Android | 安卓版安装包 |
+| `Pixel_Tank_Battle_Setup_3.3.8.EXE` | Windows | 安装版，运行安装向导完成安装 |
+| `PixelTankBattle_3.3.8-Windows.zip` | Windows | 免安装版，解压后直接运行 |
+| `PixelTankBattle_3.3.0-Android.zip` | Android | 安卓版安装包 |
 
 > 文件名中的 `<版本号>` 随版本变化，请以 Releases 页面实际文件名为准。历史版本也可在同一页面找到。
 
