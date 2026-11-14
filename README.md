@@ -1,25 +1,21 @@
-## Initial Release (Beta3.3.8)
+## Initial Release (v0.1)
 
-Pixel Tank Battle is a pixel-art tank battle game, available for Windows and Android.
+Pixel Tank Battle is a pixel-art tank battle game, available for windows.
 
 ### Downloads
 Please visit the [Releases page](https://github.com/AxAxx-dev/Pixel-Tank-Battle/releases) to download. Each release includes:
-- **Windows Installer**: `Pixel_Tank_Battle_Setup_3.3.8.0.EXE`
-- **Windows Portable**: `PixelTankBattle_Beta3.3.8-Windows.zip`
-- **Android**: `PixelTankBattle_Beta3.3.8-Android.apk` (or .zip) 
+- **Windows 10, version 1803 and later, and Windows 11**: `Pixel Tank Battle_v0.1_1000.exe` 
 
 *Note: The Windows installer is not code-signed. If flagged by antivirus, please allow it. This software is completely free.*
 
 ---
 
-## 首个版本发布 (3.3.8测试版)
+## 首个版本发布 (0.1)
 
-像素坦克对战游戏，支持 Windows 与 Android 平台。
+像素坦克对战游戏，支持 Windows 平台。
 
 ### 下载说明
 请前往 [Releases 页面](https://github.com/AxAxx-dev/Pixel-Tank-Battle/releases) 下载。每个版本包含：
-- **Windows 安装版**：`Pixel_Tank_Battle_Setup_3.3.8.0.EXE`
-- **Windows 免安装版**：`PixelTankBattle_Beta3.3.8-Windows.zip`
-- **Android 版**：`PixelTankBattle_Beta3.3.8-Android.apk`（或 .zip）
+- **Windows 安装版**：`Pixel Tank Battle_v0.1_1000.exe`
 
 *注：Windows 安装包未签名，若被安全软件拦截请添加信任。本软件完全免费。*
